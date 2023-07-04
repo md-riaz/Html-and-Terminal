@@ -2,7 +2,7 @@
   "name": "html-and-terminal",
   "version": "1.0.0",
   "description": "use html UI for work with terminal",
-  "main": "src/index.js",
+  "main": "server/server.js",
   "scripts": {},
   "author": "Utsav",
   "license": "ISC",
